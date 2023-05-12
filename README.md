@@ -23,4 +23,4 @@ A UI take-home assignment
   - I tried to use strictly Figma values but some of the rendered result looks different =. I opted for "visual proximity" over "parameter proximity". 
 
 ### Rendered result (if you don't want to 'npm install' 10000000 expo and react native packages on your machine)
-![Screenshot from 2023-05-12 15-45-43](https://github.com/iggeehu/Spiel-Take-Home/assets/69414708/33b3ab63-8c0c-4048-9f27-9439337e9a24)
+![Screenshot from 2023-05-12 15-45-43](https://github.com/iggeehu/Spiel-UI/assets/69414708/c9d40b07-1bba-497d-95f2-2fc8c3c3ab24)
