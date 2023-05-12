@@ -21,6 +21,7 @@ A UI take-home assignment
   - Not all CSS values are passed dynamically
   - Some short-term solutions are used to style some navbar icons because I ran out of time
   - I tried to use strictly Figma values but some of the rendered result looks different =. I opted for "visual proximity" over "parameter proximity". 
+  - a dropdown arrow is missing from the upper navbar.
 
 ### Rendered result (if you don't want to 'npm install' 10000000 expo and react native packages on your machine)
 ![Screenshot from 2023-05-12 15-45-43](https://github.com/iggeehu/Spiel-UI/assets/69414708/c9d40b07-1bba-497d-95f2-2fc8c3c3ab24)
