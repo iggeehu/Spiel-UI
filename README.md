@@ -24,4 +24,5 @@ A UI take-home assignment
   - a dropdown arrow is missing from the upper navbar.
 
 ### Rendered result (if you don't want to 'npm install' 10000000 expo and react native packages on your machine)
-![Screenshot from 2023-05-12 15-45-43](https://github.com/iggeehu/Spiel-UI/assets/69414708/c9d40b07-1bba-497d-95f2-2fc8c3c3ab24)
+
+![Screenshot from 2023-05-12 17-02-14](https://github.com/iggeehu/Spiel-UI/assets/69414708/ca35ca68-7902-4ec7-a2cd-b09298e52f02)
