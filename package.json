@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "expo": "^48.0.16"
+  },
+  "devDependencies": {
+    "@tsconfig/react-native": "^3.0.0",
+    "@types/jest": "^29.5.1",
+    "@types/react": "^18.2.6",
+    "@types/react-test-renderer": "^18.0.0",
+    "typescript": "^5.0.4"
+  }
+}
