@@ -1,5 +1,5 @@
-# Spiel-Take-Home
-A UI take-home assignment
+# Spiel
+A UI take-home where I replicate a Figma mock-up into React Native Code
 
 ## Time taken
 ### Around 9 hours
