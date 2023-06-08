@@ -1,21 +1,6 @@
-# Spiel
+
 A UI take-home where I replicate a Figma mock-up into React Native Code
 
-## Time taken
-### Around 9 hours
-- 4 hours furiously googling and learning React Native because I only know React, jaja
-- 3 hours actually doing the work
-- 2 hour refactoring code so that:
-    - all the components are separate 
-    - CSS values are stored in constants
-    - Typescript interfaces are written
-    - Directory structure is "production ready"
-    - Data is passed in as though they were fetched (Everything renders dynamically)
-    - Pressable components are switched to <Pressable>
-
-## More comments
-### Learning React Native
-- It's quite different from React, and there are a lot of little kinks like Pixel translation and mobile-specific key components
 - The code is still not perfect:
   - The image of the restaurant should've been in a slider component (hence no slider dots)
   - Not all CSS values are passed dynamically
@@ -23,5 +8,5 @@ A UI take-home where I replicate a Figma mock-up into React Native Code
   - I tried to use strictly Figma values but some of the rendered result looks different =. I opted for "visual proximity" over "parameter proximity". 
   - a dropdown arrow is missing from the upper navbar.
 
-### Rendered result (if you don't want to 'npm install' 10000000 expo and react native packages on your machine)
+### Rendered result
 ![Screenshot from 2023-05-12 15-45-43](https://github.com/iggeehu/Spiel-UI/assets/69414708/8018b68a-940a-4f40-9e8e-31adb3621309)
